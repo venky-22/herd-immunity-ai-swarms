@@ -1,0 +1,10 @@
+networkx>=3.3
+httpx>=0.27
+python-dotenv>=1.0
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+matplotlib>=3.9
+# optional: local Qwen runs and the trained vaccine (Apple Silicon only)
+# mlx-lm>=0.30
+# safetensors>=0.4

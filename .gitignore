@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.tmp
+.DS_Store
+finetune/adapter_raw/
+finetune/adapter.tgz
+finetune/dataset_id.txt
+finetune/run_id.txt
+data/mock_*

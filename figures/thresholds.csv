@@ -1,0 +1,4 @@
+model,shape,hubs,random
+adaption-gemma-4-31b-it_persuasive_coop,chain,> 60%,> 60%
+adaption-gemma-4-31b-it_persuasive_coop,scale_free,> 60%,> 60%
+adaption-gemma-4-31b-it_persuasive_coop,star,> 60%,> 60%
